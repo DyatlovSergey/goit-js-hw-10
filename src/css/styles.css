@@ -39,3 +39,19 @@ ul {
 .country-card__body {
   font-weight: bold;
 }
+
+.country-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.countries-list {
+  display: flex;
+  margin-bottom: 20px;
+  font-weight: bold;
+  justify-content: flex-start;
+}
+
+.countries-list img {
+  margin-right: 10px;
+}
